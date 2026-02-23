@@ -1,4 +1,6 @@
 ## High Dimensional Portfolio Simulation and Estimation
+[![DOI](https://zenodo.org/badge/678549193.svg)](https://doi.org/10.5281/zenodo.18738013)
+
 
 This repository contains code, models, and tools for simulating and estimating portfolios based on constant and time-varying covariance matrices. It offers comprehensive support to generate multivariate random series using both synthetic and real historical financial data.
 
